@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+/*
+Name: Li Da Zou
+*/
 
 //((?:abstract\s+)?class|interface)\s+([\$A-Za-z_][\$_A-Za-z\d_\$]*)// find class name
 package Input;
